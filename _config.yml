@@ -1,7 +1,6 @@
 # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
-darkmode: trye (options: true, false, never)
 # Personal info
 name: Brett Harris
 title: Senior Network System Administrator
