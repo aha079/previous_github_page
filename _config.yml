@@ -22,8 +22,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Amir and I'm a junior Back-End developer. As well as develope feature. I also have experience making software and web apps. I have worked at a number of companies gaining teamwork.
 
-I am most skilled in: <mark>Python</mark> and <mark>Sleep</mark>
-github: naha7789/naha7789.github.io/images/Amir askari_resume_April 2020.pdf
+  I am most skilled in: <mark>Python</mark> and <mark>Sleep</mark>
   
 # about_Cv: images/Amir askari_resume_April 2020.pdf 
 # Projects Section
