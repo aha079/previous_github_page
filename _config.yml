@@ -6,7 +6,7 @@ name: Amir Askari
 title:  Junior Back-End developer
 email: askaria079@gmail.com
 website: naha7789.github.io
-contact: 09195465477
+phone: 09195465477
 # Social links
 github_username:  naha7789
 # dribbble_username: jekyll
@@ -23,7 +23,9 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Amir and I'm a junior Back-End developer. As well as develope feature. I also have experience making software and web apps. I have worked at a number of companies gaining teamwork.
 
   I am most skilled in: <mark>Python</mark> and <mark>Sleep</mark>
-
+  github: naha7789/naha7789.github.io/images/Amir askari_resume_April 2020.pdf
+  
+# about_Cv: images/Amir askari_resume_April 2020.pdf 
 # Projects Section
 # projects_title: Projects
 
@@ -32,6 +34,9 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Education Section
 # educaton_title: Education
+
+#Technical_skills Section:
+#technical_skills Section: Technical
 
 # More Section
 # more_title: A Little More About Me
