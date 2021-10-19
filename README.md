@@ -52,8 +52,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 This is my previous github page which I was used to show off myself.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -65,7 +63,7 @@ This is my previous github page which I was used to show off myself.
 * [Ruby](https://www.ruby-lang.org/en/)
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
 * [CSS](https://en.wikipedia.org/wiki/CSS)
-=
+* [SCSS](https://en.wikipedia.org/wiki/SCSS)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
