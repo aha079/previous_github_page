@@ -7,7 +7,7 @@
   <h3 align="center">README</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome README template to for my previous github page!
     <br />
     <a href="https://github.com/naha7789/previous_github_page"><strong>Explore the docs »</strong></a>
     <br />
